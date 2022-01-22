@@ -12,3 +12,5 @@ Blender를 배포받을 웹사이트는 아래를 참고하세요. 자기가 쓰
 - 블렌더 OS 별 다운로드 (Windows / Mac OS  / Rinux  )
  `https://www.blender.org/download/`
 
+
+그럼 이제  [[About Blender]]를 눌러 시작해봅시다. 
