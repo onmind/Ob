@@ -12,3 +12,4 @@ Blender를 배포받을 웹사이트는 아래를 참고하세요. 자기가 쓰
 - Blender Official website 
  **https://www.blender.org/download/** 
 
+- 지원 OS: : Windows / Mac OS  / Rinux / and more. 
