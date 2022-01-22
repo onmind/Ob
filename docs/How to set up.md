@@ -6,6 +6,8 @@
 
 <image src="https://github.com/onmind/ob/blob/main/Image/20220122231404.png?raw=true" with="500" hight="300">
 
+<image src="https://github.com/onmind/ob/blob/main/Image/20220122232304.png?raw=true" with="500" hight="300">
+
 ## Setting 
 - 
 
