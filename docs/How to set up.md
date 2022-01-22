@@ -4,8 +4,7 @@
 2. 자신이 쓰는 컴퓨터의 OS에 맞는 설치파일을 찾아 다운로드합니다. 
 3. 다운로드 받은 파일을 눌러 압축을 풀어주고, 인스톨을 시작합니다. 
 
-![[20220122221452.png]] 
-![[20220122221518.png]]
+<image src="https://github.com/onmind/ob/blob/main/Image/20220122231404.png?raw=true" with="500" hight="300">
 
 ## Setting 
 - 
