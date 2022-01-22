@@ -1,6 +1,6 @@
-#  Notes for Blender
+# 시작하며
 
-Publish your public notes with MkDocs
+' Welcome to the lecture for Blender! ' 
 
 ## 블렌더 위키에 오신 것을 환영합니다. 
 
@@ -13,5 +13,5 @@ Blender를 배포받을 웹사이트는 아래를 참고하세요.
 강의에서는 2.8 LTS (Long term support version) 을 사용합니다. 
 
 Blender Official website 
-'https://www.blender.org/download/'
+' https://www.blender.org/download/ '
 
