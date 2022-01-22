@@ -6,7 +6,9 @@
 ## 배포
 Blender를 배포받을 웹사이트는 아래를 참고하세요. 자기가 쓰는 컴퓨터의 OS를 확인 후, 다운로드하세요.  강의에서는 2.8 LTS (Long term support version) 을 사용합니다. 
 
-- Blender Official website 
+- 블렌더 공식 웹사이트 
+`https://www.blender.org`
+
+- 블렌더 OS 별 다운로드 (Windows / Mac OS  / Rinux  )
  `https://www.blender.org/download/`
 
-- 지원 OS: : Windows / Mac OS  / Rinux / and more. 
