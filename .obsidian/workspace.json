@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4.Lighting/4.2 About shading.md",
+                "file": "How to set up.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1. Interface/1.5 Sculpting Workflow.md",
+                "file": "How to set up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1. Interface/1.5 Sculpting Workflow.md",
+                "file": "How to set up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1. Interface/1.5 Sculpting Workflow.md"
+                "file": "How to set up.md"
               }
             }
           }
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54f4c5ba56d5ec86",
+  "active": "64fc19d41212e5bc",
   "lastOpenFiles": [
-    "docs/1. Interface/1.6 Tips!.md",
     "docs/1. Interface/1.5 Sculpting Workflow.md",
+    "docs/1. Interface/1.6 Tips!.md",
     "docs/1. Interface/1.0 How to set up.md",
     "docs/1. Interface/1.4 Basic Workflow.md",
     "docs/5.Rigging/5.1 About Rigging.md",
