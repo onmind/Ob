@@ -1,6 +1,6 @@
 ## Welcome! 
 
-<iframe width="792" height="446" src="https://youtu.be/eoY1Mc70uTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eoY1Mc70uTo" title="Blender 4.0 - Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > step by step, day by day 
 

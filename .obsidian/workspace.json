@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to set up.md",
+                "file": "docs/1. Interface/1.0 How to set up.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "dcb06dac243bab5a",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to set up.md",
+                "file": "docs/1. Interface/1.0 How to set up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to set up.md",
+                "file": "docs/1. Interface/1.0 How to set up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to set up.md"
+                "file": "docs/1. Interface/1.0 How to set up.md"
               }
             }
           }
@@ -174,28 +174,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "64fc19d41212e5bc",
   "lastOpenFiles": [
+    "docs/1. Interface/1.1 About Blender.md",
+    "docs/1. Interface/1.2 Start up.md",
     "docs/1. Interface/1.5 Sculpting Workflow.md",
+    "docs/1. Interface/1.4 Basic Workflow.md",
+    "docs/1. Interface/1.3  Basic interface.md",
     "docs/1. Interface/1.6 Tips!.md",
     "docs/1. Interface/1.0 How to set up.md",
-    "docs/1. Interface/1.4 Basic Workflow.md",
+    "docs/index.md",
+    "How to set up.md",
     "docs/5.Rigging/5.1 About Rigging.md",
     "docs/5.Rigging/5.2 Rigging in Blender.md",
     "docs/5.Rigging/5.3 Blocking.md",
-    "docs/index.md",
-    "docs/1. Interface/1.3  Basic interface.md",
     "docs/2. Rendering/2.1 Rendering.md",
-    "docs/1. Interface/1.1 About Blender.md",
-    "docs/1. Interface/1.2 Start up.md",
     "docs/4.Lighting/4.2 About shading.md",
     "docs/4.Lighting/4.1 About Lighting.md",
     "docs/3.Node/3.3 Class of Node.md",
@@ -204,7 +205,6 @@
     "docs/2. Rendering/2.3 Eevee.md",
     "docs/2. Rendering/2.2 Cycle.md",
     "docs/4.Lighting/4.3 Light and shadow in 3D modeling.md",
-    "How to set up.md",
     "mkdocs.yml.sb-1ac3ba7c-6Lw0in",
     "README.md"
   ]
